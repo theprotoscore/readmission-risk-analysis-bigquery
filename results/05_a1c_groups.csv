@@ -1,0 +1,6 @@
+a1c_group,n,readmits,rate_pct,ci_low_pct,ci_high_pct
+1. No HbA1c test,57128,5199,9.1,8.9,9.3
+2. HbA1c normal,3741,323,8.6,7.8,9.6
+3. HbA1c >7 (not >8),2865,246,8.6,7.6,9.7
+"4. HbA1c >8, no medication change",2181,161,7.4,6.4,8.6
+"5. HbA1c >8, medication changed",4058,348,8.6,7.8,9.5

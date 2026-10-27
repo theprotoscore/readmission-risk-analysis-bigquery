@@ -1,0 +1,12 @@
+discharge_disposition_id,discharge_disposition,n,readmits,rate_pct,ci_low_pct,ci_high_pct
+22,Discharged/transferred to another rehab fac including rehab units of a hospital.,1410,371,26.3,24.1,28.7
+5,Discharged/transferred to another type of inpatient care institution,913,188,20.6,18.1,23.3
+2,Discharged/transferred to another short term hospital,1539,212,13.8,12.1,15.6
+3,Discharged/transferred to SNF,8784,1176,13.4,12.7,14.1
+4,Discharged/transferred to ICF,541,56,10.4,8.1,13.2
+18,NULL,2474,251,10.1,9.0,11.4
+6,Discharged/transferred to home with home health service,8289,789,9.5,8.9,10.2
+7,Left AMA,409,39,9.5,7.1,12.8
+1,Discharged to home,44317,3078,6.9,6.7,7.2
+25,Not Mapped,778,48,6.2,4.7,8.1
+23,Discharged/transferred to a long term care hospital.,260,8,3.1,1.6,6.0

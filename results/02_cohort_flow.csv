@@ -1,0 +1,4 @@
+step_order,step,n
+1,Raw encounters,101766
+2,One index encounter per patient,71518
+3,After excluding death/hospice discharges (final cohort),69973

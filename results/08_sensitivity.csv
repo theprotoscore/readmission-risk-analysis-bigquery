@@ -1,0 +1,4 @@
+definition,n,overall_rate_pct,rate_pct_0_prior_inpatient,rate_pct_3plus_prior_inpatient
+A. Primary: lowest encounter_id per patient,69973,9.0,8.1,26.5
+B. Alternative index: highest encounter_id per patient,69169,4.6,3.4,14.4
+C. All eligible encounters (not one per patient),99343,11.4,8.6,26.4

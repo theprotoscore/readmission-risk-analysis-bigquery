@@ -1,0 +1,21 @@
+metric,this_analysis,strack_et_al_2014
+Final cohort (patients),69973,69984
+Readmitted within 30 days,6277,6459
+No HbA1c test: n,57128,57080
+No HbA1c test: readmitted,5199,5342
+"HbA1c >8, medication changed: n",4058,4071
+"HbA1c >8, medication changed: readmitted",348,361
+"HbA1c >8, no medication change: n",2181,2196
+"HbA1c >8, no medication change: readmitted",161,166
+HbA1c normal (this analysis: Norm + >7): n,6606,6637
+HbA1c normal (this analysis: Norm + >7): readmitted,569,590
+Discharged home: n,44317,44339
+Discharged home: readmitted,3078,3184
+Circulatory: n,21384,21411
+Respiratory: n,9486,9490
+Digestive: n,6487,6485
+Diabetes: n,5748,5747
+Injury: n,4694,4697
+Musculoskeletal: n,4064,4076
+Genitourinary: n,3440,3435
+Neoplasms: n,2538,2536

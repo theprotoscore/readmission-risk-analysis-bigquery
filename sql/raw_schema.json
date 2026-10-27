@@ -1,0 +1,252 @@
+[
+  {
+    "name": "encounter_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "patient_nbr",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "race",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "gender",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "age",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "weight",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "admission_type_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "discharge_disposition_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "admission_source_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "time_in_hospital",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "payer_code",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "medical_specialty",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "num_lab_procedures",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "num_procedures",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "num_medications",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "number_outpatient",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "number_emergency",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "number_inpatient",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "diag_1",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "diag_2",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "diag_3",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "number_diagnoses",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "max_glu_serum",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "A1Cresult",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "metformin",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "repaglinide",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "nateglinide",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "chlorpropamide",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "glimepiride",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "acetohexamide",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "glipizide",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "glyburide",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "tolbutamide",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "pioglitazone",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "rosiglitazone",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "acarbose",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "miglitol",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "troglitazone",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "tolazamide",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "examide",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "citoglipton",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "insulin",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "glyburide_metformin",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "glipizide_metformin",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "glimepiride_pioglitazone",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "metformin_rosiglitazone",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "metformin_pioglitazone",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "change",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "diabetesMed",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "readmitted",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]

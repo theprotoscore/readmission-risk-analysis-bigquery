@@ -1,0 +1,11 @@
+diag1_group,n,readmits,rate_pct,ci_low_pct,ci_high_pct,pts_vs_overall,rate_rank
+Other (V/E codes),919,124,13.5,11.4,15.9,4.5,1
+Injury,4694,506,10.8,9.9,11.7,1.8,2
+Circulatory,21384,2067,9.7,9.3,10.1,0.7,3
+Diabetes,5748,524,9.1,8.4,9.9,0.1,4
+Neoplasms,2538,230,9.1,8.0,10.2,0.1,5
+Genitourinary,3440,309,9.0,8.1,10.0,0.0,6
+Other,11203,963,8.6,8.1,9.1,-0.4,7
+Musculoskeletal,4064,341,8.4,7.6,9.3,-0.6,8
+Digestive,6487,520,8.0,7.4,8.7,-1.0,9
+Respiratory,9486,691,7.3,6.8,7.8,-1.7,10

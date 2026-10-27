@@ -1,0 +1,9 @@
+dataset_split,risk_score,n,rate_pct
+train,7,23,21.7
+train,6,111,28.8
+train,5,377,24.9
+train,4,1167,17.1
+train,3,5067,13.3
+train,2,11413,10.6
+train,1,16394,8.2
+train,0,14358,5.6
